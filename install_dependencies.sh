@@ -18,7 +18,6 @@ pip3 install opencv-contrib-python==4.7.0.72
 # Install ros project
 mkdir -p ~/tello_ros_ws/src
 cd ~/tello_ros_ws/src
-git clone https://github.com/JohvanyROB/tello_ros.git -b students
 git clone https://github.com/ptrmu/ros2_shared.git
 cd ~/tello_ros_ws
 source /opt/ros/galactic/setup.bash
